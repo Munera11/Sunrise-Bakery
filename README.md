@@ -19,8 +19,8 @@ if you chose the costumer option this interface will appear. You can add product
 
 
 ## 🏅 Our Team:
-Munirah Alfarawi 
-Dalia Ahmed ALzahrani
-Khawla Almatar
-Nouf Abduluziz AlAli
-Dana Salem Alotaibi
+- Munirah Alfarawi
+- Dalia Ahmed ALzahrani
+- Khawla Almatar
+- Nouf Abduluziz AlAli
+- Dana Salem Alotaibi
